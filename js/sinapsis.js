@@ -27,3 +27,5 @@ if (typeof (dojo) != "undefined") {
     waitFor(function() {document.querySelector('.orglogo').src = 'http://jleon.mybluemix.net/apps/customizer/img/efectivosi/Sinapsis.png';}, '.orglogo')
     
 }
+
+asd
